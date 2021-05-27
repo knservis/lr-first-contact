@@ -1,2 +1,4 @@
-# lr-first-contact
-Quick and simple demo of linear regression
+# First contact with linear regression  
+
+Quick and simple demo of linear regression. 
+
